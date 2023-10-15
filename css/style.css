@@ -146,4 +146,9 @@ header, footer {
   background-color: var(--color2);
 }
 
-/*# sourceMappingURL=style.css.map */
+/* для кого курс */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/amsor\/Documents\/stepik\%20html_css\/HTML\%20Useinov\/Front\%20End\%20Developer\/Course\/SiteOnBootstrap5\/sass\/style\.sass}line{font-family:\00003108}}
+.forwhom h5 {
+  padding: 5rem;
+  border: 0.3rem solid var(--color1);
+}
