@@ -95,17 +95,17 @@ header, footer {
 
 /*  О курсе */
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/amsor\/Documents\/stepik\%20html_css\/HTML\%20Useinov\/Front\%20End\%20Developer\/Course\/SiteOnBootstrap5\/sass\/style\.sass}line{font-family:\0000372}}
-.about {
+.about, .shedule {
   background-color: #eee;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/amsor\/Documents\/stepik\%20html_css\/HTML\%20Useinov\/Front\%20End\%20Developer\/Course\/SiteOnBootstrap5\/sass\/style\.sass}line{font-family:\0000374}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/amsor\/Documents\/stepik\%20html_css\/HTML\%20Useinov\/Front\%20End\%20Developer\/Course\/SiteOnBootstrap5\/sass\/style\.sass}line{font-family:\0000375}}
 .about {
   font-size: 2.5rem;
   color: var(--color2);
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/amsor\/Documents\/stepik\%20html_css\/HTML\%20Useinov\/Front\%20End\%20Developer\/Course\/SiteOnBootstrap5\/sass\/style\.sass}line{font-family:\0000378}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/amsor\/Documents\/stepik\%20html_css\/HTML\%20Useinov\/Front\%20End\%20Developer\/Course\/SiteOnBootstrap5\/sass\/style\.sass}line{font-family:\0000379}}
 .itd_circle {
   margin: 0 auto 1.5rem;
   width: 7rem;
@@ -117,7 +117,7 @@ header, footer {
   align-items: center;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/amsor\/Documents\/stepik\%20html_css\/HTML\%20Useinov\/Front\%20End\%20Developer\/Course\/SiteOnBootstrap5\/sass\/style\.sass}line{font-family:\0000388}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/amsor\/Documents\/stepik\%20html_css\/HTML\%20Useinov\/Front\%20End\%20Developer\/Course\/SiteOnBootstrap5\/sass\/style\.sass}line{font-family:\0000389}}
 .line {
   width: 10rem;
   height: 0.3rem;
@@ -126,29 +126,36 @@ header, footer {
 }
 
 /* цвет */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/amsor\/Documents\/stepik\%20html_css\/HTML\%20Useinov\/Front\%20End\%20Developer\/Course\/SiteOnBootstrap5\/sass\/style\.sass}line{font-family:\0000395}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/amsor\/Documents\/stepik\%20html_css\/HTML\%20Useinov\/Front\%20End\%20Developer\/Course\/SiteOnBootstrap5\/sass\/style\.sass}line{font-family:\0000399}}
 .color1 {
   color: var(--color1);
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/amsor\/Documents\/stepik\%20html_css\/HTML\%20Useinov\/Front\%20End\%20Developer\/Course\/SiteOnBootstrap5\/sass\/style\.sass}line{font-family:\0000398}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/amsor\/Documents\/stepik\%20html_css\/HTML\%20Useinov\/Front\%20End\%20Developer\/Course\/SiteOnBootstrap5\/sass\/style\.sass}line{font-family:\00003102}}
 .color2 {
   color: var(--color2);
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/amsor\/Documents\/stepik\%20html_css\/HTML\%20Useinov\/Front\%20End\%20Developer\/Course\/SiteOnBootstrap5\/sass\/style\.sass}line{font-family:\00003101}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/amsor\/Documents\/stepik\%20html_css\/HTML\%20Useinov\/Front\%20End\%20Developer\/Course\/SiteOnBootstrap5\/sass\/style\.sass}line{font-family:\00003105}}
 .bg1 {
   background-color: var(--color1);
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/amsor\/Documents\/stepik\%20html_css\/HTML\%20Useinov\/Front\%20End\%20Developer\/Course\/SiteOnBootstrap5\/sass\/style\.sass}line{font-family:\00003104}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/amsor\/Documents\/stepik\%20html_css\/HTML\%20Useinov\/Front\%20End\%20Developer\/Course\/SiteOnBootstrap5\/sass\/style\.sass}line{font-family:\00003108}}
 .bg2 {
   background-color: var(--color2);
 }
 
 /* для кого курс */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/amsor\/Documents\/stepik\%20html_css\/HTML\%20Useinov\/Front\%20End\%20Developer\/Course\/SiteOnBootstrap5\/sass\/style\.sass}line{font-family:\00003108}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/amsor\/Documents\/stepik\%20html_css\/HTML\%20Useinov\/Front\%20End\%20Developer\/Course\/SiteOnBootstrap5\/sass\/style\.sass}line{font-family:\00003112}}
 .forwhom h5 {
   padding: 5rem;
   border: 0.3rem solid var(--color1);
+}
+
+/*программа курса */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/amsor\/Documents\/stepik\%20html_css\/HTML\%20Useinov\/Front\%20End\%20Developer\/Course\/SiteOnBootstrap5\/sass\/style\.sass}line{font-family:\00003118}}
+.accordion-button:not(.collapsed) {
+  color: var(--bs-white);
+  background-color: var(--color2);
 }
