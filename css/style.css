@@ -107,14 +107,14 @@ header, footer {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/amsor\/Documents\/stepik\%20html_css\/HTML\%20Useinov\/Front\%20End\%20Developer\/Course\/SiteOnBootstrap5\/sass\/style\.sass}line{font-family:\0000378}}
 .itd_circle {
-  margin: 0 auto -1.5rem;
+  margin: 0 auto 1.5rem;
   width: 7rem;
   height: 7rem;
   border: 0.3rem solid var(--color2);
   border-radius: 50%;
   display: flex;
   justify-content: center;
-  align-item: center;
+  align-items: center;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/amsor\/Documents\/stepik\%20html_css\/HTML\%20Useinov\/Front\%20End\%20Developer\/Course\/SiteOnBootstrap5\/sass\/style\.sass}line{font-family:\0000388}}
