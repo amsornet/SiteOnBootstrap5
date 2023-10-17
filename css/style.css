@@ -95,7 +95,7 @@ header, footer {
 
 /*  О курсе */
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Amsor\/Documents\/\!Stepik\/HTML_Useinov\/Frontend\/Bootstrap\/sass\/style\.sass}line{font-family:\0000372}}
-.about, .schedule, .author {
+.about, .schedule, .author, .buy {
   background-color: #eee;
 }
 
