@@ -181,4 +181,11 @@ header, footer {
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Amsor\/Documents\/\!Stepik\/HTML_Useinov\/Frontend\/Bootstrap\/sass\/style\.sass}line{font-family:\00003134}}
 .itd_img {
   max-width: 26rem;
+  /* отзывы */
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Amsor\/Documents\/\!Stepik\/HTML_Useinov\/Frontend\/Bootstrap\/sass\/style\.sass}line{font-family:\00003138}}
+.rounded {
+  border-radius: 50% !important;
+  border: 0.3rem solid var(--color1);
 }
